@@ -3,6 +3,10 @@ title: "About me"
 template: "page"
 ---
 
+Hi, I'm Marko profesional software developer. One day I decied I should be one, and started learning. I never stopped. I also taught myslef both German and English. Fluent in both, less so in German :). 
+
+When I don't know stuff I read/watch/resarch.
+
 ## Some of open sourc stuff I made:
 
 - [Html Editor](https://compassionate-stonebraker.netlify.com/) - [source](https://github.com/ultrox/editor)
